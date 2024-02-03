@@ -1,0 +1,82 @@
+Part 3
+
+Chapter 1	--Need of Data Structure
+			--Different types of Data Structures & their real use cases
+				Arrays, String, Hash, Linked List, Stack, Queue, Tree, Trie, Graph
+
+Chapter 2	--Array 
+				--Architecture of 1 Dimensional Array
+					--Stack memery holds the references while Heap memory holds the actual object
+					--Indexing in array, Base address
+				--Different ways of initialization
+			--Traversal
+			
+			Q. Accept size n from user and create a n size array then take n inputs into the and finally print the sum of all elements.
+			Q. Find the greatest element.
+     				IN -  {2, 96, 69, 77, 145, 20}
+				OP -  Max element = 145
+			
+*For mastering array logic & algorithm - leetcode live & Problem Solving Videos*
+
+Chapter 3	--Multi Dimensional Array
+				2D/Matrix, 3D Array
+			--Array of Array References
+			--Memory structure 
+			--Matrix form of 2D array
+
+			Q. Traversing / Visiting each index of array
+			Q. Taking inputs
+			Q. Displaying elements of array in matrix form
+
+Chapter 4	--Methods	
+				--Method Signature / Method Prototype / Method Definition
+				--Need of methods
+			
+			Q. Strong Number
+				145 = 1! + 4! + 5!
+
+Chapter 5	--String API  
+				--Array of characters.
+				--Strings literals
+				--String name = "Sheryians";
+					--Using this method, they gets generated in the special memory location called 
+			   		   String Constants pool inside heap(architecture).
+
+				--String Methods (Documentation)
+					charAt​(int index)
+					compareTo​(String anotherString) / compareToIgnoreCase​(String str)
+					equals​(String object) / equalsIgnoreCase​(String anotherString)
+					isEmpty()
+					length()
+					split​(String regex)
+					startsWith​(String prefix)
+					substring​(int beginIndex) / substring​(int beginIndex, int endIndex)
+					toCharArray()
+					toLowerCase()
+					toUpperCase()
+					trim()
+
+			Q. Accept a string from user and print its each character on a new line
+			Q. Count vowels and consonents in a string
+			Q.Toggle each alphabet of String 
+			       Input - AcgDfD Output - aCGdFd 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		

@@ -1,0 +1,68 @@
+Part 2
+
+Chapter 1	--Ternary Operator
+				<condition> ? true : false;
+			--Type Coversion
+				<data_type><var> = <data_type><var or val>;
+	
+Chapter 2	--Concept of Repetition in Programming
+				--Iteration / Loops
+				--Recursion
+			
+			--Loops
+				--entry, exit controlled
+			--for(init; condition; incre/decre)
+				--tweaks (Very IMP)
+				--infinite loop question practice
+
+			Q. Print natural number up to n. 
+			Q. Sum up to n terms.
+			Q. Check if the number is Prime or not.
+
+Chapter 3	--while(conditions)
+				--common body for digit seperation problems
+			
+			Q. Sum of digits of a number
+			Q. Accept a number and check if it is a pallindromic number (If number and its reverse are equal)
+			
+Chapter 4	--do..while(condition);
+				--common body for menu based programs
+		
+			Q. Print hello until user gives wrong input using do while
+			Q. Make a choice based calculator using do while
+		
+Chapter 5	--Project - Guess Game
+     				 Write a program that generates a random number and asks the user to guess what the number is.
+			         If the user's guess is higher than the random number, the program should display "Too high, try again."
+			         If the user's guess is lower than the random number, the program should display "Too low, try again."
+			         The program should use a loop that repeats until the user correctly guesses the random number.
+
+*Pattern programming will be hunted in a seperate video*
+
+*Need of Data Structure & Learn Array like never before*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+			

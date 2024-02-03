@@ -1,0 +1,89 @@
+Part 1
+
+Chapter 1	--Installation of Java & Intellij IDEA
+			--IDE ? Integrated Development Environment
+			--Creating a new project in Intellij IDEA
+			--Exploring Settings of Intellij
+				Font Size, Theme, Enabling zoom feature, Auto Import
+			--Writing your first program
+			
+Chapter 2	--Comments
+			--Variables & Data types
+				whole numbers - byte, short, int, long
+				floating numbers - float, double
+				char, boolean, String (Non primitive)
+			
+			Q. Print the sum of two numbers
+
+Chapter 3	--Case sensitivity
+			--Cases
+				--PascalCase - Class & Interface
+				--camelCase  - variable and method name
+			--Game of brackets
+				( ) - Methods                 - Parantheses
+				{ } - Scope/body           - Curly 
+				[ ] - Array                       - Square
+				<> - Generics               - Angular
+
+Chapter 4	--Taking Inputs
+				--Scanner Class - Present inside java.util package
+					--nextByte(), nextShort(), nextInt(), nextLong(), nextFloat(), nextDouble(), nextBoolean()
+					--Reading String Data
+						--nextLine() - Reads the whole line
+						--next()        - Reads the first word
+					--Reading char data
+						--nextLine().charAt(0)
+			Q. Accept two numbers from user and swap their values
+               			 Part 2 - Swap without using third variable(limitation = numbers)
+
+Chapter 5	--Operators
+				Arithmatic : +, -, /, %, ++, --, 
+				Relational : <, >, <=, >=, ==, !=
+				Logical : &&, ||, !
+				Precedence table
+			--Whizz link
+				https://www.sheryians.com/whizz/test/65702c883a50f48f2a6f4d65
+
+Chapter 6	--Math API
+				abs, floor, ceil, sqrt, cbrt, pow, round, max, min
+
+			Q. Accept the parameters and calculate the Compound Interest & print it on STDOUT
+			Q. Accept the three sides of triangle and calculate the area using herons formula (Home Work)
+
+Chapter 7	--Control Flow
+				if, if-else, if-else-if
+			
+			Q.Accept two numbers and print the greatest between them
+			Q.Accept an integer and check whether it is an even number or odd.
+			Q.Accept three numbers and print the greatest among them
+			Q. Bijli Bill
+
+			--Using Chat GPT for generating more questions and theory
+
+*Next Video - Loops, problems & a mini game project*
+
+
+			
+
+
+			
+
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
